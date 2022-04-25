@@ -1,6 +1,6 @@
-# This team hasn't started yet...
+# Introduction
+In the project, we are goin to write a C code , get a status badge, showcase our work and register our repo. Hope we all can get a good grade!
+# Code
+# Contributors
+Chan Shi Leung Joanthan
 
-Check back later!
-
-**Please read `tasks.md` to start your work.**
- 
