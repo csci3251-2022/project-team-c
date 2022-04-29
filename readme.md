@@ -1,10 +1,11 @@
 # Introduction
 In the project, we are goin to write a C code , get a status badge, showcase our work and register our repo. Hope we all can get a good grade!
 # Code
+```c
 
 #include <stdio.h>
 #include <stdlib.h>
-```c
+
 int main()
 {
     printf("Hello world!\n");
