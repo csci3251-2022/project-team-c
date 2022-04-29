@@ -5,4 +5,4 @@ In the project, we are goin to write a C code , get a status badge, showcase our
 # Contributors
 Chan Shi Leung Joanthan
 
-![example workflow](https://github.com/csci3251-2022/project-team-c/actions/workflows/code.c/badge.svg)
+![example workflow](https://github.com/csci3251-2022/project-team-c/blob/main/actions/workflows/code.c/badge.svg)
