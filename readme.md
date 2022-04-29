@@ -4,13 +4,13 @@ In the project, we are goin to write a C code , get a status badge, showcase our
 
 #include <stdio.h>
 #include <stdlib.h>
-
+```c
 int main()
 {
     printf("Hello world!\n");
     return 0;
 }
-
+```
 ![example workflow](https://github.com/csci3251-2022/project-team-c/actions/workflows/c-cpp.yml/badge.svg)
 # Contributors
 Chan Shi Leung Joanthan
